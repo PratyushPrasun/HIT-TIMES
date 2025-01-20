@@ -323,11 +323,11 @@ body {
     flex-direction: column;
   }
   .fea .pic{
-    width: 18rem;
+    width: 15rem;
   }
   .fea img{
-    height: 15rem;
-    width: 15rem;
+    height: 12rem;
+    width: 12rem;
   }
   .fea {
     height:30rem;
